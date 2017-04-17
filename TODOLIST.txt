@@ -1,0 +1,13 @@
+QR Code -> watermarking 10%				DONE
+ID Card									DONE
+notif berhasil add user					DONE
+email konfirmasi + kasih tau password	10%	
+upload foto 5%
+upload file 5%
+first login 2%
+edit in modal
+view in template 40%
+proposal 1%
+laporan 2%
+bikin diagram diagram 2% 
+
